@@ -71,7 +71,7 @@ service:
     # service item loop
     - title : "Possediamo una solida e pluriennale preparazione nella valutazione del rischio e del nesso di causa tra esposizioni e malattie."
       images:
-      - "images/service-1.png"
+      - "images/avenue.jpg"
       content : "Con il nostro lavoro siamo in grado di rispondere al meglio ai nostri clienti, aiutandoli ad affrontare le richieste di normative che si riferiscono a prodotti diversi, dai prodotti chimici industriali agli additivi alimentari. Assistiamo i nostri clienti nella valutazione di impatto sanitario <a href='www.valutazione-impatto-sanitario.it'>(VIS)</a>"
       button:
         enable : true
@@ -81,7 +81,7 @@ service:
     # service item loop
     - title : "La nostra assistenza"
       images:
-      - "images/service-2.png"
+      - "images/industry.jpg"
       content : "stragiudiziale riguarda tutti gli aspetti rilevanti per l'attribuzione del nesso di causa tra una esposizione contestata ed una malattia imputata all'esposizione."
       button:
         enable : true
@@ -91,7 +91,7 @@ service:
     # service item loop
     - title : "GenoTox Consulting offre servizi di natura stragiudiziale alle imprese, assistendole in procedimenti giudiziari e di natura regolatoria."
       images:
-      - "images/service-3.png"
+      - "images/avenue.jpg"
       content : "Garantiamo efficienza e riservatezza; lavoriamo a stretto contatto con i nostri clienti e diamo un'alta priorità a ogni progetto. Abbiamo esperienza pluriennale nella collaborazione con grandi società italiane ed internazionali."
       button:
         enable : true
