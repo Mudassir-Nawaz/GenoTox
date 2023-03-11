@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = ""
+baseURL = "/"
 title = "GenoTox"
 theme = "bigspring-light"
 # post pagination
