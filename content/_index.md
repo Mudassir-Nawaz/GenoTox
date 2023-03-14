@@ -109,9 +109,25 @@ screenshot:
 ##################### Call to action #####################
 call_to_action:
   enable : true
-  title : "Pronto per iniziare?"
-  image : "images/avenue.jpg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
+  title : ""
+  image : ""
+  content : 'Tossicologia <br>
+Per aiutare a capire gli effetti nocivi che le sostanze chimiche possono avere sulle persone o sugli animali <br>
+<br>
+Epidemiologia <br>
+Lo studio dei rischi di determinate malattie e dei fattori associati, in popolazioni specifiche <br>
+<br>
+Impatto Sanitario e ["E" in low case] Ambientale <br>
+Stima dei rischi di malattia da esposizioni ambientali e opportunità di prevenzione<br>
+<br>
+Relazioni Dose-Risposta <br>
+Valutazione delle curve dose- ed esposizione-risposta e della loro estrapolabilità<br>
+<br>
+Identificazione della ["Della" in low case] Soglia<br>
+Valutazione del livello di esposizione al di sotto del quale non esiste un rischio apprezzabile per la salute<br>
+<br>
+Ruolo dei ["Di" -> "dei" in low case] Fattori di ["Di" in low case] Rischio<br>
+Valutare il ruolo dei fattori (età, sesso, stile di vita, condizioni, esposizioni, ecc.) che modificano il rischio di sviluppare una malattia<br>'
   button:
     enable : true
     label : "Contattaci"
