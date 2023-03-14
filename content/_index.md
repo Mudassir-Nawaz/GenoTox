@@ -46,7 +46,7 @@ points:
       content : "Valutazione del livello di esposizione al di sotto del quale non esiste un rischio apprezzabile per la salute"
       
     # feature item loop
-    - name : "Ruolo di Fattori di Rischio"
+    - name : "Ruolo dei Fattori di Rischio"
       icon : "fas fa-city"
       content : "Valutare il ruolo dei fattori (età, sesso, stile di vita, condizioni, esposizioni, ecc.) che modificano il rischio di sviluppare una malattia"
       
