@@ -17,17 +17,17 @@ feature:
     # feature item loop
     - name : "Tossicologia"
       icon : "fas fa-tree"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "Per aiutare a capire gli effetti nocivi che le sostanze chimiche possono avere sulle persone o sugli animali"
       
     # feature item loop
     - name : " Epidemiologia"
       icon : "fas fa-object-group"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "Lo studio dei rischi di determinate malattie e dei fattori associati, in popolazioni specifiche"
       
     # feature item loop
-    - name : "Impatto sanitario e ambientale"
+    - name : "Impatto Sanitario e Ambientale"
       icon : "fas fa-city"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "Stima dei rischi di malattia da esposizioni ambientali e opportunità di prevenzione"
       
 
 ##################### Feature ##########################
@@ -36,19 +36,19 @@ points:
   title : "Nelle valutazioni tossicologiche ed epidemiologiche prendiamo in particolare considerazione:"
   point_item:
     # feature item loop
-    - name : "Relazioni dose-risposta"
+    - name : "Relazioni Dose-Risposta"
       icon : "fas fa-tree"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "Valutazione delle curve dose- ed esposizione-risposta e della loro estrapolabilità"
       
     # feature item loop
-    - name : "Identificazione della soglia"
+    - name : "Identificazione della Soglia"
       icon : "fas fa-object-group"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "Valutazione del livello di esposizione al di sotto del quale non esiste un rischio apprezzabile per la salute"
       
     # feature item loop
-    - name : "Ruolo di fattori di rischio"
+    - name : "Ruolo di Fattori di Rischio"
       icon : "fas fa-city"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "Valutare il ruolo dei fattori (età, sesso, stile di vita, condizioni, esposizioni, ecc.) che modificano il rischio di sviluppare una malattia"
       
 
 
@@ -111,23 +111,7 @@ call_to_action:
   enable : true
   title : ""
   image : ""
-  content : 'Tossicologia <br>
-Per aiutare a capire gli effetti nocivi che le sostanze chimiche possono avere sulle persone o sugli animali <br>
-<br>
-Epidemiologia <br>
-Lo studio dei rischi di determinate malattie e dei fattori associati, in popolazioni specifiche <br>
-<br>
-Impatto Sanitario e ["E" in low case] Ambientale <br>
-Stima dei rischi di malattia da esposizioni ambientali e opportunità di prevenzione<br>
-<br>
-Relazioni Dose-Risposta <br>
-Valutazione delle curve dose- ed esposizione-risposta e della loro estrapolabilità<br>
-<br>
-Identificazione della ["Della" in low case] Soglia<br>
-Valutazione del livello di esposizione al di sotto del quale non esiste un rischio apprezzabile per la salute<br>
-<br>
-Ruolo dei ["Di" -> "dei" in low case] Fattori di ["Di" in low case] Rischio<br>
-Valutare il ruolo dei fattori (età, sesso, stile di vita, condizioni, esposizioni, ecc.) che modificano il rischio di sviluppare una malattia<br>'
+  content : ''
   button:
     enable : true
     label : "Contattaci"
